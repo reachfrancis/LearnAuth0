@@ -1,0 +1,3 @@
+# Windows-specific npm configuration
+optional = false
+legacy-peer-deps = true
